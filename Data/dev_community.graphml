@@ -1,0 +1,2219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="Python_News"/>
+<node id="Discovertech3"/>
+<node id="EletiveCom"/>
+<node id="contechi"/>
+<node id="P_Ensarguet"/>
+<node id="wdiego"/>
+<node id="_ArifChaudhary"/>
+<node id="godfrey_G_"/>
+<node id="CryptofAI"/>
+<node id="GrandeMaestro"/>
+<node id="Varun_dvn"/>
+<node id="jashul_x_divya"/>
+<node id="PrUkkera"/>
+<node id="_reactdev"/>
+<node id="leonvioleta4"/>
+<node id="education_24x7"/>
+<node id="bot_tensorflow"/>
+<node id="MichalOktabec"/>
+<node id="ctvrtkon"/>
+<node id="hlavacm"/>
+<node id="GamebotIndie"/>
+<node id="barbrielart"/>
+<node id="devvibesbot"/>
+<node id="gaby_wald"/>
+<node id="Fishbot8"/>
+<node id="CoderRetweet"/>
+<node id="ShyBOT7"/>
+<node id="hubofml"/>
+<node id="fluttbot"/>
+<node id="opensource_orgs"/>
+<node id="TheSecretJunio1"/>
+<node id="Braverider2"/>
+<node id="RibRab7"/>
+<node id="GamesJackhammer"/>
+<node id="codedailybot"/>
+<node id="xaelbot"/>
+<node id="datasciencebot_"/>
+<node id="iPythonistaBot"/>
+<node id="100DaysOf2020"/>
+<node id="PythonRoboto"/>
+<node id="ergomergoadargo"/>
+<node id="Winston38463668"/>
+<node id="sprint_code"/>
+<node id="elizabot9"/>
+<node id="haveyouseenhype"/>
+<node id="vegasazure"/>
+<node id="Lesquat_Newman"/>
+<node id="py_data_sci"/>
+<node id="ali19baba"/>
+<node id="sarnayer"/>
+<node id="Videojue_Fermin"/>
+<node id="karthi_fan_"/>
+<node id="ajithvijay1010"/>
+<node id="harvest57688777"/>
+<node id="GameGearGuru"/>
+<node id="pilotfish"/>
+<node id="fuyunoyozakura"/>
+<node id="Bitcoin_zpt"/>
+<node id="rstatspl"/>
+<node id="LabsSkull"/>
+<node id="veriumfellow"/>
+<node id="bot_flutter"/>
+<node id="fullNam35087976"/>
+<node id="BotFemale"/>
+<node id="ServerlessFan"/>
+<node id="TheDeveloperBot"/>
+<node id="cont_learn"/>
+<node id="realrubberduck1"/>
+<node id="PythonExpertBot"/>
+<node id="botfordev"/>
+<node id="allenrevans"/>
+<node id="morolswediu"/>
+<node id="theaggergakker"/>
+<node id="sandstormdev"/>
+<node id="WomenCodersBot"/>
+<node id="programmerjoke9"/>
+<node id="dakatannie"/>
+<node id="anglehernandez"/>
+<node id="CodeWithTwitchi"/>
+<node id="venehsoftw"/>
+<node id="ReGamertron"/>
+<node id="AzuerBot"/>
+<node id="geraldmuvengei2"/>
+<node id="BnbPay"/>
+<node id="Ilumi012"/>
+<node id="nbil_za"/>
+<node id="abhinay_dev"/>
+<node id="Mithila_bot"/>
+<node id="jrogue"/>
+<node id="BantamCityGames"/>
+<node id="The_Real_Yule"/>
+<node id="the404code"/>
+<node id="botcybersec"/>
+<node id="_FunBot"/>
+<node id="IndieVideoGames"/>
+<node id="YooBabobo"/>
+<node id="ingliguori"/>
+<node id="DeveloperBot_v1"/>
+<node id="DomainFQ"/>
+<node id="TechieTalkiez"/>
+<node id="fciryems"/>
+<node id="RobloxRTer"/>
+<node id="DjangoBot_"/>
+<node id="EssayPerfect"/>
+<node id="iedufp"/>
+<node id="sectest9"/>
+<node id="CyberSecurityN8"/>
+<node id="The_PatrickD"/>
+<node id="APdeBROUWER"/>
+<node id="bungobot1"/>
+<node id="safiroanejo"/>
+<node id="plopandrew"/>
+<node id="femtech_"/>
+<node id="in_stemm"/>
+<node id="ProWriters33"/>
+<node id="LepiBot"/>
+<node id="paul__noize"/>
+<node id="ika_st"/>
+<node id="fpatelm"/>
+<node id="_r8lst"/>
+<node id="FootlooseGames"/>
+<node id="fatgamer_919"/>
+<node id="candia12345"/>
+<node id="rafael_soto_"/>
+<node id="misterfulanito"/>
+<node id="Fabriciosx"/>
+<node id="heynn2021"/>
+<node id="team_backend"/>
+<node id="crsinfosolution"/>
+<node id="TirriRinoMusic"/>
+<node id="_chiptune"/>
+<node id="DomThomasEs"/>
+<node id="Jackpump_"/>
+<node id="Bills_Bot"/>
+<node id="Eintsein1980"/>
+<node id="NVSData"/>
+<node id="LeetcodeB"/>
+<node id="IndieAoba"/>
+<node id="MoGalore"/>
+<node id="javascriptd"/>
+<node id="JavaGeekBot"/>
+<node id="Tiff_Rose98"/>
+<node id="LebotPython"/>
+<node id="BotBlackTech"/>
+<node id="JuliaEssays1"/>
+<node id="flutterbyamey"/>
+<node id="EuroDolPokemon"/>
+<node id="PythonbotBr"/>
+<node id="Fernand43614779"/>
+<node id="ingare_rev"/>
+<node id="IndieGamesWTF"/>
+<node id="IntrinsicWorld"/>
+<node id="DevHighlights"/>
+<node id="rildosan"/>
+<node id="Marcela_HRs"/>
+<node id="coder_487"/>
+<node id="doubi3__"/>
+<node id="ARealHumanName1"/>
+<node id="CSSalesMan"/>
+<node id="AaronCuddeback"/>
+<node id="blaccxyz_"/>
+<node id="100xcode"/>
+<node id="Geek_alphaomega"/>
+<node id="fercryption"/>
+<node id="BasithaliK"/>
+<node id="lucasoft_co_uk"/>
+<node id="austin_castel"/>
+<node id="SamiaKabil1"/>
+<node id="ProcreateEDU"/>
+<node id="IndieGamePlanet"/>
+<node id="JSLatinoCOM"/>
+<node id="2Bftawfik"/>
+<node id="SATYAJIT1910"/>
+<node id="_darem"/>
+<node id="pestphp"/>
+<node id="enunomaduro"/>
+<node id="Freaxxie"/>
+<node id="PrgrmmrHumor_io"/>
+<node id="bot_dns"/>
+<node id="CodingNinjaBOT"/>
+<node id="NightmareZone2"/>
+<node id="iam_rohitsv"/>
+<node id="Prometheus_Bot"/>
+<node id="GamesBoner"/>
+<node id="ZdenekDolezal"/>
+<node id="BitrichInfo"/>
+<node id="OmegaXYZ1077"/>
+<node id="HarbRimah"/>
+<node id="_coderio"/>
+<node id="MauriDeveloper"/>
+<node id="Vocode"/>
+<node id="kwang_jara"/>
+<node id="capten_masin"/>
+<node id="RalphHaley10"/>
+<node id="_BuildInPublic_"/>
+<node id="LaskoCodes"/>
+<node id="devobj"/>
+<node id="Appiwedia"/>
+<node id="JackHen04785235"/>
+<node id="Usagi_Hoshino"/>
+<node id="tinmannNEO"/>
+<node id="HollowMatt_ITA"/>
+<node id="CoDailychalleng"/>
+<node id="TCrossmd"/>
+<node id="Cryptograph_IT"/>
+<node id="alfi_eep"/>
+<node id="edisonjsapps"/>
+<node id="NeoknightOne"/>
+<node id="AmyOh89"/>
+<node id="RemoteOK"/>
+<node id="Palomablez"/>
+<node id="morozov_dev"/>
+<node id="Ayman__adlY"/>
+<node id="BlackBerry"/>
+<node id="KikAbrahams"/>
+<node id="comss"/>
+<node id="agameplaysonip1"/>
+<node id="wanderervr"/>
+<node id="natsum77"/>
+<node id="NewKidNo"/>
+<node id="cottila"/>
+<node id="steffanoferrari"/>
+<node id="WinFuture"/>
+<node id="millerneutron"/>
+<node id="ExellentWriter0"/>
+<node id="JamsheedStudios"/>
+<node id="PrincessBijhan"/>
+<node id="HeyValentineK"/>
+<node id="AWriter02"/>
+<node id="Jubrette1"/>
+<node id="danielscarvalho"/>
+<node id="PyjamaDeveloper"/>
+<node id="DolbyIO"/>
+<node id="_kiiikooo"/>
+<node id="cybersec_feeds"/>
+<node id="Charlot53053143"/>
+<node id="cryptomiss88"/>
+<node id="Boris84061255"/>
+<node id="Cryptolover0921"/>
+<node id="py2js"/>
+<node id="GreengoXrp"/>
+<node id="HMSPRINCEOFWALE"/>
+<node id="Lrasquilha"/>
+<node id="phirebase"/>
+<node id="Chrisnew_Akio"/>
+<node id="ChriThor"/>
+<node id="metadiscursive"/>
+<node id="BlackberryXRP"/>
+<node id="M_eals"/>
+<node id="StudyWriters8"/>
+<node id="ProjectHyraxApp"/>
+<node id="schlummer2k"/>
+<node id="DanSpuller"/>
+<node id="releaseteam"/>
+<node id="Vambe_WT"/>
+<node id="alvis5573"/>
+<node id="GameDevDavid319"/>
+<node id="Slidin19"/>
+<node id="RBXRetweetBot"/>
+<node id="SkyRTRblxBot"/>
+<node id="divvydon"/>
+<node id="ruby_rails_bot"/>
+<node id="sshmyg"/>
+<node id="Tejas_07_"/>
+<node id="rush_data"/>
+<node id="mrrcmex"/>
+<node id="RealTobiAdeleke"/>
+<node id="madridwebseo"/>
+<node id="squaire67_d"/>
+<node id="wisdomn_"/>
+<node id="RajniSethi2016"/>
+<node id="EarthWindNeo"/>
+<node id="namesdomain87"/>
+<node id="AzhaAmir"/>
+<node id="kayaokancom"/>
+<node id="ImNickHuber"/>
+<node id="MarketingYotta"/>
+<node id="hsianghui"/>
+<node id="THPrblxofficial"/>
+<node id="VisionReadyInc"/>
+<node id="Web_Crack_Blog"/>
+<node id="arandilopez"/>
+<node id="AnjuMeoww"/>
+<node id="sonytvuk"/>
+<node id="raavi_mishra"/>
+<node id="ideasurf"/>
+<node id="Goudasultan"/>
+<node id="AsiaNantambi"/>
+<node id="Joseph_Santoro"/>
+<node id="LowCodeBot"/>
+<node id="ShayTweeter"/>
+<node id="GossipsTv"/>
+<node id="kaunghtetkyaw10"/>
+<node id="blockchainconvo"/>
+<node id="powerupcoding1"/>
+<node id="tuxsaurus"/>
+<node id="DerouillonVince"/>
+<node id="jsfairy"/>
+<node id="news_nocode"/>
+<node id="PetaCrunch"/>
+<node id="AFPA_JEUNES"/>
+<node id="BarbagelataEve"/>
+<node id="SOS_game_"/>
+<node id="Jadamoureen"/>
+<node id="Thot_Repellent"/>
+<node id="BAAL3113"/>
+<node id="blockjn"/>
+<node id="Boywebdeveloper"/>
+<node id="beasts_phantom"/>
+<node id="IndieGamesBOT1"/>
+<node id="andrewmorrisuk"/>
+<node id="dr_gulsun"/>
+<node id="viralvideovlogs"/>
+<node id="stefano688"/>
+<node id="aarohitamboli1"/>
+<node id="MunchEsteban"/>
+<node id="SenTalon"/>
+<node id="AlexDevero"/>
+<node id="nagashree4SG"/>
+<node id="Jin_Store"/>
+<node id="panicplayertv"/>
+<node id="k8ssandra"/>
+<node id="WZorNET"/>
+<node id="ISempijja"/>
+<node id="bttbot"/>
+<node id="uCloudify"/>
+<node id="sciBot6"/>
+<node id="pateketrueke"/>
+<node id="ML_Tweet_Bot"/>
+<node id="BlkHwk0ps"/>
+<node id="WillieC16284109"/>
+<node id="disnchelsea"/>
+<node id="WinObs"/>
+<node id="techAU"/>
+<node id="giocev1"/>
+<node id="XeronBot"/>
+<node id="FanKrpkab"/>
+<node id="LadoopanduPalle"/>
+<node id="spartadree"/>
+<node id="CearaCrawshaw"/>
+<node id="PencilPaperUX"/>
+<node id="lukaszfa1"/>
+<node id="braziljs"/>
+<node id="Joffreybvn"/>
+<node id="FKamatu"/>
+<node id="kb0000001"/>
+<node id="_Dev38"/>
+<node id="LunaGeme"/>
+<node id="helmcode"/>
+<node id="Pia_Soun"/>
+<node id="newbie_codes"/>
+<node id="kinduff"/>
+<node id="Rheanun"/>
+<node id="RitwikRajSingh2"/>
+<node id="Morys0"/>
+<node id="TenguAi"/>
+<edge source="Python_News" target="Discovertech3">
+  <data key="d0">2</data>
+</edge>
+<edge source="Python_News" target="sprint_code">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="ali19baba">
+  <data key="d0">3</data>
+</edge>
+<edge source="Python_News" target="100DaysOf2020">
+  <data key="d0">4</data>
+</edge>
+<edge source="Python_News" target="rstatspl">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="anglehernandez">
+  <data key="d0">6</data>
+</edge>
+<edge source="Python_News" target="devvibesbot">
+  <data key="d0">9</data>
+</edge>
+<edge source="Python_News" target="AzuerBot">
+  <data key="d0">10</data>
+</edge>
+<edge source="Python_News" target="geraldmuvengei2">
+  <data key="d0">2</data>
+</edge>
+<edge source="Python_News" target="jrogue">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="CodeWithTwitchi">
+  <data key="d0">4</data>
+</edge>
+<edge source="Python_News" target="iPythonistaBot">
+  <data key="d0">3</data>
+</edge>
+<edge source="Python_News" target="DjangoBot_">
+  <data key="d0">5</data>
+</edge>
+<edge source="Python_News" target="TCrossmd">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="PythonExpertBot">
+  <data key="d0">3</data>
+</edge>
+<edge source="Python_News" target="Charlot53053143">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="DeveloperBot_v1">
+  <data key="d0">2</data>
+</edge>
+<edge source="Python_News" target="LeetcodeB">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="ShayTweeter">
+  <data key="d0">2</data>
+</edge>
+<edge source="Python_News" target="opensource_orgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="cottila">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="py_data_sci">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="Python_News" target="XeronBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EletiveCom" target="contechi">
+  <data key="d0">1</data>
+</edge>
+<edge source="P_Ensarguet" target="wdiego">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="godfrey_G_">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="GamebotIndie">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="CoderRetweet">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="TheSecretJunio1">
+  <data key="d0">4</data>
+</edge>
+<edge source="_ArifChaudhary" target="codedailybot">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="xaelbot">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="100DaysOf2020">
+  <data key="d0">4</data>
+</edge>
+<edge source="_ArifChaudhary" target="cont_learn">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="PythonExpertBot">
+  <data key="d0">4</data>
+</edge>
+<edge source="_ArifChaudhary" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="allenrevans">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="morolswediu">
+  <data key="d0">4</data>
+</edge>
+<edge source="_ArifChaudhary" target="sandstormdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="WomenCodersBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="opensource_orgs">
+  <data key="d0">4</data>
+</edge>
+<edge source="_ArifChaudhary" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="DeveloperBot_v1">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="iPythonistaBot">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="coder_487">
+  <data key="d0">2</data>
+</edge>
+<edge source="_ArifChaudhary" target="ARealHumanName1">
+  <data key="d0">1</data>
+</edge>
+<edge source="_ArifChaudhary" target="IntrinsicWorld">
+  <data key="d0">3</data>
+</edge>
+<edge source="_ArifChaudhary" target="team_backend">
+  <data key="d0">3</data>
+</edge>
+<edge source="_ArifChaudhary" target="BotFemale">
+  <data key="d0">1</data>
+</edge>
+<edge source="CryptofAI" target="GrandeMaestro">
+  <data key="d0">1</data>
+</edge>
+<edge source="CryptofAI" target="Bitcoin_zpt">
+  <data key="d0">1</data>
+</edge>
+<edge source="Varun_dvn" target="jashul_x_divya">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="_reactdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="bot_tensorflow">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="ShyBOT7">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="hubofml">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="fluttbot">
+  <data key="d0">7</data>
+</edge>
+<edge source="PrUkkera" target="opensource_orgs">
+  <data key="d0">8</data>
+</edge>
+<edge source="PrUkkera" target="TheSecretJunio1">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="iPythonistaBot">
+  <data key="d0">5</data>
+</edge>
+<edge source="PrUkkera" target="100DaysOf2020">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="godfrey_G_">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="elizabot9">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="vegasazure">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Lesquat_Newman">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="py_data_sci">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="bot_flutter">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="fullNam35087976">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="BotFemale">
+  <data key="d0">4</data>
+</edge>
+<edge source="PrUkkera" target="ServerlessFan">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="realrubberduck1">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="CodeWithTwitchi">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="venehsoftw">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="ika_st">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Fabriciosx">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="PythonExpertBot">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="TechieTalkiez">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="team_backend">
+  <data key="d0">4</data>
+</edge>
+<edge source="PrUkkera" target="Discovertech3">
+  <data key="d0">5</data>
+</edge>
+<edge source="PrUkkera" target="AzuerBot">
+  <data key="d0">5</data>
+</edge>
+<edge source="PrUkkera" target="crsinfosolution">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="botfordev">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="flutterbyamey">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="Fernand43614779">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="DjangoBot_">
+  <data key="d0">3</data>
+</edge>
+<edge source="PrUkkera" target="CoderRetweet">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="kwang_jara">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="morolswediu">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="alfi_eep">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="AmyOh89">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="steffanoferrari">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Jubrette1">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="PyjamaDeveloper">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Lrasquilha">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="rush_data">
+  <data key="d0">2</data>
+</edge>
+<edge source="PrUkkera" target="mrrcmex">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="AzhaAmir">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="kayaokancom">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="codedailybot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="geraldmuvengei2">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Web_Crack_Blog">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="AnjuMeoww">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="ideasurf">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="andrewmorrisuk">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="dr_gulsun">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="stefano688">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="FKamatu">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="helmcode">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="Pia_Soun">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="RitwikRajSingh2">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrUkkera" target="TenguAi">
+  <data key="d0">1</data>
+</edge>
+<edge source="leonvioleta4" target="education_24x7">
+  <data key="d0">2</data>
+</edge>
+<edge source="leonvioleta4" target="godfrey_G_">
+  <data key="d0">2</data>
+</edge>
+<edge source="leonvioleta4" target="SATYAJIT1910">
+  <data key="d0">1</data>
+</edge>
+<edge source="leonvioleta4" target="femtech_">
+  <data key="d0">1</data>
+</edge>
+<edge source="MichalOktabec" target="ctvrtkon">
+  <data key="d0">1</data>
+</edge>
+<edge source="MichalOktabec" target="hlavacm">
+  <data key="d0">1</data>
+</edge>
+<edge source="MichalOktabec" target="Vocode">
+  <data key="d0">1</data>
+</edge>
+<edge source="barbrielart" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaby_wald" target="Fishbot8">
+  <data key="d0">1</data>
+</edge>
+<edge source="Braverider2" target="RibRab7">
+  <data key="d0">1</data>
+</edge>
+<edge source="Braverider2" target="GamesJackhammer">
+  <data key="d0">1</data>
+</edge>
+<edge source="Braverider2" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="Braverider2" target="BantamCityGames">
+  <data key="d0">1</data>
+</edge>
+<edge source="Braverider2" target="heynn2021">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="CodeWithTwitchi">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="PythonRoboto">
+  <data key="d0">2</data>
+</edge>
+<edge source="PythonRoboto" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="safiroanejo">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="codedailybot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="team_backend">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="fullNam35087976">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="cont_learn">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="opensource_orgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="harvest57688777">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="IntrinsicWorld">
+  <data key="d0">1</data>
+</edge>
+<edge source="PythonRoboto" target="GamesJackhammer">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="Winston38463668">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="haveyouseenhype">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="pilotfish">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="veriumfellow">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="fullNam35087976">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="cont_learn">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="ergomergoadargo" target="theaggergakker">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="Videojue_Fermin">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="harvest57688777">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="GameGearGuru">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="fuyunoyozakura">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="LabsSkull">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="ReGamertron">
+  <data key="d0">1</data>
+</edge>
+<edge source="sarnayer" target="OmegaXYZ1077">
+  <data key="d0">1</data>
+</edge>
+<edge source="karthi_fan_" target="ajithvijay1010">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="dakatannie">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="botcybersec">
+  <data key="d0">5</data>
+</edge>
+<edge source="programmerjoke9" target="iPythonistaBot">
+  <data key="d0">6</data>
+</edge>
+<edge source="programmerjoke9" target="_FunBot">
+  <data key="d0">4</data>
+</edge>
+<edge source="programmerjoke9" target="AzuerBot">
+  <data key="d0">6</data>
+</edge>
+<edge source="programmerjoke9" target="LepiBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="DeveloperBot_v1">
+  <data key="d0">2</data>
+</edge>
+<edge source="programmerjoke9" target="paul__noize">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="Fabriciosx">
+  <data key="d0">2</data>
+</edge>
+<edge source="programmerjoke9" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="Bills_Bot">
+  <data key="d0">4</data>
+</edge>
+<edge source="programmerjoke9" target="Eintsein1980">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="javascriptd">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="sectest9">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="CyberSecurityN8">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="_reactdev">
+  <data key="d0">4</data>
+</edge>
+<edge source="programmerjoke9" target="xaelbot">
+  <data key="d0">4</data>
+</edge>
+<edge source="programmerjoke9" target="DevHighlights">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="CoderRetweet">
+  <data key="d0">2</data>
+</edge>
+<edge source="programmerjoke9" target="100DaysOf2020">
+  <data key="d0">2</data>
+</edge>
+<edge source="programmerjoke9" target="Prometheus_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="CodeWithTwitchi">
+  <data key="d0">2</data>
+</edge>
+<edge source="programmerjoke9" target="sandstormdev">
+  <data key="d0">3</data>
+</edge>
+<edge source="programmerjoke9" target="JavaGeekBot">
+  <data key="d0">4</data>
+</edge>
+<edge source="programmerjoke9" target="codedailybot">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="squaire67_d">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="AsiaNantambi">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="DerouillonVince">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="programmerjoke9" target="BAAL3113">
+  <data key="d0">1</data>
+</edge>
+<edge source="BnbPay" target="Ilumi012">
+  <data key="d0">1</data>
+</edge>
+<edge source="BnbPay" target="nbil_za">
+  <data key="d0">1</data>
+</edge>
+<edge source="BnbPay" target="Cryptolover0921">
+  <data key="d0">1</data>
+</edge>
+<edge source="BnbPay" target="alvis5573">
+  <data key="d0">1</data>
+</edge>
+<edge source="abhinay_dev" target="Mithila_bot">
+  <data key="d0">3</data>
+</edge>
+<edge source="The_Real_Yule" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="The_Real_Yule" target="YooBabobo">
+  <data key="d0">1</data>
+</edge>
+<edge source="IndieVideoGames" target="GamesJackhammer">
+  <data key="d0">4</data>
+</edge>
+<edge source="IndieVideoGames" target="ingare_rev">
+  <data key="d0">3</data>
+</edge>
+<edge source="IndieVideoGames" target="sandstormdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="IndieVideoGames" target="IntrinsicWorld">
+  <data key="d0">2</data>
+</edge>
+<edge source="IndieVideoGames" target="heynn2021">
+  <data key="d0">1</data>
+</edge>
+<edge source="IndieVideoGames" target="JackHen04785235">
+  <data key="d0">1</data>
+</edge>
+<edge source="IndieVideoGames" target="harvest57688777">
+  <data key="d0">3</data>
+</edge>
+<edge source="IndieVideoGames" target="BitrichInfo">
+  <data key="d0">1</data>
+</edge>
+<edge source="IndieVideoGames" target="MarketingYotta">
+  <data key="d0">1</data>
+</edge>
+<edge source="IndieVideoGames" target="Thot_Repellent">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="doubi3__">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="TechieTalkiez">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="codedailybot">
+  <data key="d0">2</data>
+</edge>
+<edge source="ingliguori" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="team_backend">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="Geek_alphaomega">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="hubofml">
+  <data key="d0">1</data>
+</edge>
+<edge source="ingliguori" target="fercryption">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="DeveloperBot_v1">
+  <data key="d0">2</data>
+</edge>
+<edge source="DomainFQ" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="TechieTalkiez">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="godfrey_G_">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="codedailybot">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="team_backend">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="Fabriciosx">
+  <data key="d0">2</data>
+</edge>
+<edge source="DomainFQ" target="SATYAJIT1910">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="namesdomain87">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomainFQ" target="XeronBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="fciryems" target="RobloxRTer">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="iedufp">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="sectest9">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="CyberSecurityN8">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="The_PatrickD">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="BotFemale">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="_reactdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="team_backend">
+  <data key="d0">2</data>
+</edge>
+<edge source="EssayPerfect" target="GamebotIndie">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="botcybersec">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="femtech_">
+  <data key="d0">1</data>
+</edge>
+<edge source="EssayPerfect" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="APdeBROUWER" target="bungobot1">
+  <data key="d0">1</data>
+</edge>
+<edge source="plopandrew" target="femtech_">
+  <data key="d0">1</data>
+</edge>
+<edge source="plopandrew" target="in_stemm">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="BotFemale">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="sectest9">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="CyberSecurityN8">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="harvest57688777">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="botcybersec">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="team_backend">
+  <data key="d0">4</data>
+</edge>
+<edge source="ProWriters33" target="NVSData">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="LeetcodeB">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ProWriters33" target="femtech_">
+  <data key="d0">1</data>
+</edge>
+<edge source="fpatelm" target="education_24x7">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="godfrey_G_">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="Bills_Bot">
+  <data key="d0">2</data>
+</edge>
+<edge source="_r8lst" target="xaelbot">
+  <data key="d0">2</data>
+</edge>
+<edge source="_r8lst" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="allenrevans">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="DeveloperBot_v1">
+  <data key="d0">2</data>
+</edge>
+<edge source="_r8lst" target="iPythonistaBot">
+  <data key="d0">3</data>
+</edge>
+<edge source="_r8lst" target="_r8lst">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="CoderRetweet">
+  <data key="d0">2</data>
+</edge>
+<edge source="_r8lst" target="botfordev">
+  <data key="d0">2</data>
+</edge>
+<edge source="_r8lst" target="cont_learn">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="elizabot9">
+  <data key="d0">3</data>
+</edge>
+<edge source="_r8lst" target="codedailybot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="kaunghtetkyaw10">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="vegasazure">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="blockjn">
+  <data key="d0">2</data>
+</edge>
+<edge source="_r8lst" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="hubofml">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="CodeWithTwitchi">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="TheSecretJunio1">
+  <data key="d0">3</data>
+</edge>
+<edge source="_r8lst" target="team_backend">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="XeronBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="sprint_code">
+  <data key="d0">1</data>
+</edge>
+<edge source="_r8lst" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="GamesJackhammer">
+  <data key="d0">2</data>
+</edge>
+<edge source="FootlooseGames" target="heynn2021">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="ingare_rev">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="IndieGamesWTF">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="IntrinsicWorld">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="IndieGamePlanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="sandstormdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="IndieAoba">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="_darem">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="Freaxxie">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="Discovertech3">
+  <data key="d0">2</data>
+</edge>
+<edge source="FootlooseGames" target="GamesBoner">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="ZdenekDolezal">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="BitrichInfo">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="harvest57688777">
+  <data key="d0">1</data>
+</edge>
+<edge source="FootlooseGames" target="GameDevDavid319">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="candia12345">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="IndieAoba">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="Eintsein1980">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="sandstormdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="CSSalesMan">
+  <data key="d0">1</data>
+</edge>
+<edge source="fatgamer_919" target="IntrinsicWorld">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="misterfulanito">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="Usagi_Hoshino">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="arandilopez">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="pateketrueke">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="giocev1">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="LunaGeme">
+  <data key="d0">1</data>
+</edge>
+<edge source="rafael_soto_" target="kinduff">
+  <data key="d0">1</data>
+</edge>
+<edge source="TirriRinoMusic" target="_chiptune">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomThomasEs" target="Jackpump_">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomThomasEs" target="pestphp">
+  <data key="d0">1</data>
+</edge>
+<edge source="DomThomasEs" target="enunomaduro">
+  <data key="d0">1</data>
+</edge>
+<edge source="MoGalore" target="MoGalore">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="LebotPython">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="BotBlackTech">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="AaronCuddeback">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="blaccxyz_">
+  <data key="d0">1</data>
+</edge>
+<edge source="Tiff_Rose98" target="100xcode">
+  <data key="d0">1</data>
+</edge>
+<edge source="JuliaEssays1" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="JuliaEssays1" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="JuliaEssays1" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="JuliaEssays1" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="JuliaEssays1" target="botcybersec">
+  <data key="d0">1</data>
+</edge>
+<edge source="JuliaEssays1" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="EuroDolPokemon" target="PythonbotBr">
+  <data key="d0">2</data>
+</edge>
+<edge source="rildosan" target="Marcela_HRs">
+  <data key="d0">1</data>
+</edge>
+<edge source="BasithaliK" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="BasithaliK" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="BasithaliK" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="BasithaliK" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="BasithaliK" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="lucasoft_co_uk" target="austin_castel">
+  <data key="d0">1</data>
+</edge>
+<edge source="lucasoft_co_uk" target="ImNickHuber">
+  <data key="d0">1</data>
+</edge>
+<edge source="lucasoft_co_uk" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="SamiaKabil1" target="ProcreateEDU">
+  <data key="d0">1</data>
+</edge>
+<edge source="SamiaKabil1" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="SamiaKabil1" target="LebotPython">
+  <data key="d0">1</data>
+</edge>
+<edge source="SamiaKabil1" target="codedailybot">
+  <data key="d0">4</data>
+</edge>
+<edge source="SamiaKabil1" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="SamiaKabil1" target="blaccxyz_">
+  <data key="d0">1</data>
+</edge>
+<edge source="SamiaKabil1" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="JSLatinoCOM" target="2Bftawfik">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="bot_dns">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="CodeWithTwitchi">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="CodingNinjaBOT">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="PrgrmmrHumor_io" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="NightmareZone2" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="NightmareZone2" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="NightmareZone2" target="GamesJackhammer">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="codedailybot">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="team_backend">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="TheSecretJunio1">
+  <data key="d0">4</data>
+</edge>
+<edge source="iam_rohitsv" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="opensource_orgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="iam_rohitsv" target="devobj">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="CodeWithTwitchi">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="cybersec_feeds">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="Tejas_07_">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="TheSecretJunio1">
+  <data key="d0">3</data>
+</edge>
+<edge source="HarbRimah" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="rush_data">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="viralvideovlogs">
+  <data key="d0">1</data>
+</edge>
+<edge source="HarbRimah" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="_coderio" target="MauriDeveloper">
+  <data key="d0">1</data>
+</edge>
+<edge source="_coderio" target="PetaCrunch">
+  <data key="d0">1</data>
+</edge>
+<edge source="_coderio" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="_coderio" target="MunchEsteban">
+  <data key="d0">1</data>
+</edge>
+<edge source="capten_masin" target="RalphHaley10">
+  <data key="d0">1</data>
+</edge>
+<edge source="capten_masin" target="_BuildInPublic_">
+  <data key="d0">1</data>
+</edge>
+<edge source="capten_masin" target="sandstormdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="LaskoCodes" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="LaskoCodes" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Appiwedia" target="Discovertech3">
+  <data key="d0">2</data>
+</edge>
+<edge source="Appiwedia" target="coder_487">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="cont_learn">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="Cryptograph_IT">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="edisonjsapps">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="NeoknightOne">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="NewKidNo">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="Discovertech3">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="GreengoXrp">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="schlummer2k">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="EarthWindNeo">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="blockchainconvo">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="powerupcoding1">
+  <data key="d0">1</data>
+</edge>
+<edge source="tinmannNEO" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="CoDailychalleng">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="team_backend">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="cottila">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="javascriptd">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="opensource_orgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="HollowMatt_ITA" target="phirebase">
+  <data key="d0">1</data>
+</edge>
+<edge source="RemoteOK" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Palomablez" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="morozov_dev" target="Ayman__adlY">
+  <data key="d0">1</data>
+</edge>
+<edge source="BlackBerry" target="KikAbrahams">
+  <data key="d0">1</data>
+</edge>
+<edge source="BlackBerry" target="HMSPRINCEOFWALE">
+  <data key="d0">1</data>
+</edge>
+<edge source="BlackBerry" target="BlackberryXRP">
+  <data key="d0">1</data>
+</edge>
+<edge source="BlackBerry" target="M_eals">
+  <data key="d0">1</data>
+</edge>
+<edge source="comss" target="agameplaysonip1">
+  <data key="d0">1</data>
+</edge>
+<edge source="comss" target="WZorNET">
+  <data key="d0">1</data>
+</edge>
+<edge source="comss" target="lukaszfa1">
+  <data key="d0">1</data>
+</edge>
+<edge source="comss" target="kb0000001">
+  <data key="d0">1</data>
+</edge>
+<edge source="wanderervr" target="natsum77">
+  <data key="d0">1</data>
+</edge>
+<edge source="WinFuture" target="millerneutron">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="CodeWithTwitchi">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="100DaysOf2020">
+  <data key="d0">3</data>
+</edge>
+<edge source="ExellentWriter0" target="Bills_Bot">
+  <data key="d0">2</data>
+</edge>
+<edge source="ExellentWriter0" target="xaelbot">
+  <data key="d0">2</data>
+</edge>
+<edge source="ExellentWriter0" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="AWriter02">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="Vambe_WT">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="DevHighlights">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="botcybersec">
+  <data key="d0">2</data>
+</edge>
+<edge source="ExellentWriter0" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="BotFemale">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="sectest9">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="CyberSecurityN8">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="2Bftawfik">
+  <data key="d0">1</data>
+</edge>
+<edge source="ExellentWriter0" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="JamsheedStudios" target="PrincessBijhan">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="DjangoBot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="BotBlackTech">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="blaccxyz_">
+  <data key="d0">1</data>
+</edge>
+<edge source="HeyValentineK" target="TheDeveloperBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="danielscarvalho" target="PyjamaDeveloper">
+  <data key="d0">3</data>
+</edge>
+<edge source="DolbyIO" target="_kiiikooo">
+  <data key="d0">1</data>
+</edge>
+<edge source="cryptomiss88" target="Boris84061255">
+  <data key="d0">2</data>
+</edge>
+<edge source="cryptomiss88" target="cryptomiss88">
+  <data key="d0">2</data>
+</edge>
+<edge source="py2js" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="Jadamoureen">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="CodeWithTwitchi">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="ML_Tweet_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="BlkHwk0ps">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="elizabot9">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="PythonExpertBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="godfrey_G_">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="XeronBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="morolswediu">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="py_data_sci">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="hubofml">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="newbie_codes">
+  <data key="d0">1</data>
+</edge>
+<edge source="py2js" target="madridwebseo">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chrisnew_Akio" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chrisnew_Akio" target="2Bftawfik">
+  <data key="d0">1</data>
+</edge>
+<edge source="ChriThor" target="austin_castel">
+  <data key="d0">1</data>
+</edge>
+<edge source="ChriThor" target="k8ssandra">
+  <data key="d0">1</data>
+</edge>
+<edge source="ChriThor" target="sciBot6">
+  <data key="d0">1</data>
+</edge>
+<edge source="ChriThor" target="opensource_orgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="metadiscursive" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="Fabriciosx">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="ProjectHyraxApp">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="botcybersec">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="PythonRoboto">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="StudyWriters8" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="DanSpuller" target="releaseteam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Slidin19" target="RBXRetweetBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Slidin19" target="SkyRTRblxBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="divvydon" target="ruby_rails_bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="sshmyg" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="sshmyg" target="hsianghui">
+  <data key="d0">2</data>
+</edge>
+<edge source="sshmyg" target="morolswediu">
+  <data key="d0">2</data>
+</edge>
+<edge source="sshmyg" target="devvibesbot">
+  <data key="d0">2</data>
+</edge>
+<edge source="sshmyg" target="tuxsaurus">
+  <data key="d0">1</data>
+</edge>
+<edge source="sshmyg" target="DevHighlights">
+  <data key="d0">1</data>
+</edge>
+<edge source="sshmyg" target="jsfairy">
+  <data key="d0">2</data>
+</edge>
+<edge source="sshmyg" target="_FunBot">
+  <data key="d0">2</data>
+</edge>
+<edge source="RealTobiAdeleke" target="_BuildInPublic_">
+  <data key="d0">1</data>
+</edge>
+<edge source="madridwebseo" target="CoderRetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="wisdomn_" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="wisdomn_" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="RajniSethi2016" target="vegasazure">
+  <data key="d0">2</data>
+</edge>
+<edge source="RajniSethi2016" target="sandstormdev">
+  <data key="d0">1</data>
+</edge>
+<edge source="RajniSethi2016" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="RajniSethi2016" target="codedailybot">
+  <data key="d0">4</data>
+</edge>
+<edge source="RajniSethi2016" target="team_backend">
+  <data key="d0">3</data>
+</edge>
+<edge source="RajniSethi2016" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="RajniSethi2016" target="RajniSethi2016">
+  <data key="d0">2</data>
+</edge>
+<edge source="THPrblxofficial" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="VisionReadyInc" target="WomenCodersBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="VisionReadyInc" target="opensource_orgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="sonytvuk" target="raavi_mishra">
+  <data key="d0">1</data>
+</edge>
+<edge source="sonytvuk" target="aarohitamboli1">
+  <data key="d0">1</data>
+</edge>
+<edge source="sonytvuk" target="nagashree4SG">
+  <data key="d0">1</data>
+</edge>
+<edge source="Goudasultan" target="elizabot9">
+  <data key="d0">1</data>
+</edge>
+<edge source="Goudasultan" target="Morys0">
+  <data key="d0">1</data>
+</edge>
+<edge source="Joseph_Santoro" target="LowCodeBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Joseph_Santoro" target="news_nocode">
+  <data key="d0">1</data>
+</edge>
+<edge source="GossipsTv" target="raavi_mishra">
+  <data key="d0">1</data>
+</edge>
+<edge source="AFPA_JEUNES" target="BarbagelataEve">
+  <data key="d0">1</data>
+</edge>
+<edge source="SOS_game_" target="harvest57688777">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="xaelbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="the404code">
+  <data key="d0">2</data>
+</edge>
+<edge source="Boywebdeveloper" target="SATYAJIT1910">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="SenTalon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="datasciencebot_">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="spartadree">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="100DaysOf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="BotFemale">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="Bills_Bot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="Joffreybvn">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="XeronBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="codedailybot">
+  <data key="d0">6</data>
+</edge>
+<edge source="Boywebdeveloper" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="JavaGeekBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="iPythonistaBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="WomenCodersBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Boywebdeveloper" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="beasts_phantom" target="harvest57688777">
+  <data key="d0">1</data>
+</edge>
+<edge source="beasts_phantom" target="IndieGamesBOT1">
+  <data key="d0">1</data>
+</edge>
+<edge source="AlexDevero" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="AlexDevero" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jin_Store" target="Jin_Store">
+  <data key="d0">1</data>
+</edge>
+<edge source="panicplayertv" target="SkyRTRblxBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="panicplayertv" target="RBXRetweetBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ISempijja" target="bttbot">
+  <data key="d0">3</data>
+</edge>
+<edge source="ISempijja" target="uCloudify">
+  <data key="d0">1</data>
+</edge>
+<edge source="ISempijja" target="blaccxyz_">
+  <data key="d0">1</data>
+</edge>
+<edge source="WillieC16284109" target="botfordev">
+  <data key="d0">1</data>
+</edge>
+<edge source="WillieC16284109" target="WillieC16284109">
+  <data key="d0">1</data>
+</edge>
+<edge source="WillieC16284109" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="WillieC16284109" target="AzuerBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="WillieC16284109" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="disnchelsea" target="the404code">
+  <data key="d0">1</data>
+</edge>
+<edge source="WinObs" target="techAU">
+  <data key="d0">1</data>
+</edge>
+<edge source="FanKrpkab" target="LadoopanduPalle">
+  <data key="d0">1</data>
+</edge>
+<edge source="CearaCrawshaw" target="PencilPaperUX">
+  <data key="d0">1</data>
+</edge>
+<edge source="braziljs" target="DeveloperBot_v1">
+  <data key="d0">1</data>
+</edge>
+<edge source="braziljs" target="_FunBot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_Dev38" target="devvibesbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="_Dev38" target="Rheanun">
+  <data key="d0">1</data>
+</edge>
+<edge source="_Dev38" target="IndieAoba">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
