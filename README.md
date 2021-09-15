@@ -12,5 +12,6 @@ Discipline Repository for Network Analysis, an UFRN undergraduate course of Info
  - Python
 
 ### Project
-In this project we did a case study of Twitter with a Directed networks, creating a network that cites the word 'dev', identifying the main node based on statistical metrics.
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jSoCPMJgton_jv1uzx0KGxJA1X-SCkT?usp=sharing) [DEV_COMMUNITY](\data\assets\Twitter.ipynb)
+In this project we did a case study of Twitter with a Directed networks, creating a network that cites the word '#dev', identifying the main node based on statistical metrics.
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jSoCPMJgton_jv1uzx0KGxJA1X-SCkT?usp=sharing) [DEV_COMMUNITY](https://github.com/andrehgustavo/network-analysis-tweet/blob/main/Data/assets/Twitter.ipynb)
+ - [![Medium](https://github.com/andrehgustavo/network-analysis-tweet/blob/main/Data/network/images/medium.png)](https://medium.com/@luiseduardorique/comunidade-dev-no-twitter-e715c6ec338)
