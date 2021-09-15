@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "images/medium.png",
+    "link": "https://medium.com/@luiseduardorique/comunidade-dev-no-twitter-e715c6ec338",
+    "text": "André Barros e Luis"
+  },
+  "text": {
+    "more": "Análise de rede sobre a Comunidade Dev no Twitter.",
+    "intro": "Análise de rede sobre a Comunidade Dev no Twitter.",
+    "title": "Comunidade Dev no Twitter"
+  },
+  "legend": {
+    "edgeLabel": "ReTweets",
+    "colorLabel": "Out-Degree",
+    "nodeLabel": "Tweets"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Out-Degree",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Out-Degree"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
