@@ -13,4 +13,4 @@ Discipline Repository for Network Analysis, an UFRN undergraduate course of Info
 
 ### Project
 In this project we did a case study of Twitter with a Directed networks, creating a network that cites the word 'dev', identifying the main node based on statistical metrics.
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QpxJdumdaxYtS4CNtCZocFN0NpPCMYGj?usp=sharing) [UFRN_CITATION](https://colab.research.google.com/drive/1QpxJdumdaxYtS4CNtCZocFN0NpPCMYGj?usp=sharing)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jSoCPMJgton_jv1uzx0KGxJA1X-SCkT?usp=sharing) [DEV_COMMUNITY](\data\assets\Twitter.ipynb)
